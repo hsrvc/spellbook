@@ -5535,4 +5535,6 @@ SELECT contract_address, symbol, decimals
 ,(0xa2e3356610840701bdf5611a53974510ae27e2e1, 'wBETH', 18)
 ,(0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df, 'RDNT', 18)
 ,(0xc7d31a6d7aa357066c37bf383e4a7028083a46d4, 'XPEPE', 18)
+,(0xc5f0f7b66764f6ec8c8dff7ba683102295e16409, 'FDUSD', 18)
+,(0x323665443cef804a3b5206103304bd4872ea4253, 'USDV', 6)
 ) AS temp_table (contract_address, symbol, decimals)
